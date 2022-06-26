@@ -19,7 +19,7 @@ public class TerrainGenerator : MonoBehaviour
                 if (CurrentNoise > 0.2f) {
                     for (int i = 1; i < CurrentNoise * 7; i++) {
                         GameObject Cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
-                        Cube.transform.position = new Vector3(x - 15, i, y - 15);
+                        Cube.transform.position = new Vector3(x, i, y);
                         Cube.transform.parent = TerrainBase.transform;
                     }
                 }
