@@ -2,7 +2,7 @@
 A voxel terrain generator, made using Unity, and C#
 
 This was made using Unity (version 2021.1.14f1), with C#. 
-It uses FastNoiseLite (https://github.com/Auburn/FastNoiseLite), which is used to generate the noise. It then generates terrain accordingly.
+It uses [FastNoiseLite](https://github.com/Auburn/FastNoiseLite), which is used to generate the noise. It then generates terrain accordingly.
 It also has a player controller which lets you navigate through the generated terrain.
 On the Generator GameObject, you have the options to specify a width, height, and a seed, which are used to generate the noise, which is used to generate the terrain.
 
