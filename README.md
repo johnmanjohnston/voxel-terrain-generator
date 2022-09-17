@@ -10,3 +10,6 @@ On the Generator GameObject, you have the options to specify a width, height, an
 ![image](https://user-images.githubusercontent.com/97091148/175812205-39cbc09b-1872-4ef9-9205-d10a5fa87dd2.png)
 ![image](https://user-images.githubusercontent.com/97091148/175812215-291e978a-407f-4203-9ea7-c8023b1e6e84.png)
 ![image](https://user-images.githubusercontent.com/97091148/175812230-a437aba7-6407-4931-9560-336052361b4e.png)
+
+## Progress
+This project is not done, and still under development to procedurally make better terrain.
